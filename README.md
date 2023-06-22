@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Caro 👋
 
 <!--
 **retori8/retori8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
