@@ -1,4 +1,4 @@
-### Hola, soy Caro 👋
+![Banner](https://github.com/retori8/retori8/assets/120288106/a65d1b01-b1b4-415a-b5a1-63709dda44f8)
 
 <!--
 **retori8/retori8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
