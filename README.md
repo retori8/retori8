@@ -12,7 +12,8 @@
 
 ![Carolina Rojas Botto's GitHub stats](https://github-readme-stats.vercel.app/api?username=retori8&theme=rose_pine&show_icons=true&hide_border=True&bg_color=2b4b82&card_width=402&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retori8&theme=rose_pine&layout=compact&hide_border=True&bg_color=2b4b82&langs_count=8&card_width=402)
-
+<hr/>
+<h4 align="center">Proyectos destacados 📌</h4>
 <p align="center">
 <a href="https://github.com/retori8/Proyecto-Final-Taks">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=retori8&repo=Proyecto-Final-Tak&bg_color=2b4b82&theme=rose_pine&card_width=402" />
