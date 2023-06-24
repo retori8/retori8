@@ -1,6 +1,6 @@
 ![Banner3](https://github.com/retori8/retori8/assets/120288106/455e1655-c78f-4441-a7de-f9d1a462d2c2)
 
-<p align="center">**Soy una persona curiosa, perseverante y apasionada por la innovación, que en la sinergia de ambas profesiones he encontrado un mundo ilimitado de creación y expansión donde plasmar mis habilidades creativas y técnicas.**</p> 
+<p align="center"> **Soy una persona curiosa, perseverante y apasionada por la innovación, que en la sinergia de ambas profesiones he encontrado un mundo ilimitado de creación y expansión donde plasmar mis habilidades creativas y técnicas.** </p> 
 <br/>
 <p align="center">   
 <a href="https://www.linkedin.com/in/carolina-rojas-botto/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="caro/linkedin" height="25"/></a> <a href="https://github.com/retori8"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="caro/github" height="25"/></a> <a href="mailto:carolinarbotto@gmail.com"> <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carolinarbotto@gmail.com" alt="caro/gmail" height="25"/></a></p>
