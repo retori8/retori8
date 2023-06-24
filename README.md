@@ -16,10 +16,10 @@
 <h4 align="center">Proyectos destacados 📌</h4>
 <p align="center">
 <a href="https://github.com/retori8/Proyecto-Final-Taks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=retori8&repo=Proyecto-Final-Tak&bg_color=2b4b82&theme=rose_pine&card_width=402" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=retori8&repo=Proyecto-Final-Tak&bg_color=2b4b82&theme=rose_pine&card_width=402&hide_border=True" />
 </a>
 <a href="https://github.com/retori8/-Starwars-blog-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=retori8&repo=-Starwars-blog-&bg_color=2b4b82&theme=rose_pine&card_width=402" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=retori8&repo=-Starwars-blog-&bg_color=2b4b82&theme=rose_pine&card_width=402&hide_border=True" />
 </a>
 </p>
 
